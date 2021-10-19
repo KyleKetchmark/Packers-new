@@ -1,0 +1,16 @@
+#first{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    text-align: center;
+    border: 3px solid black;
+    font: optional;
+}
+img{
+    border: black;
+    width: 25%;
+    height: 25%;
+    text-align: center;
+    padding: 20px;
+}
